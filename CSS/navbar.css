@@ -7,7 +7,7 @@
     margin-top: 1%;
     height: 10%;
     background : #4CAF50;
-    display:inline-flex;
+    display:flex;
     width: 100vw;
 
 }
@@ -17,9 +17,9 @@
     
 }
 .menu{
-    display: inline-flex;
+    display:inline-block;
     justify-content: flex-end;
-    margin-inline-start: 25rem;
+    
     margin-top: 1rem;
 }
 
@@ -27,16 +27,16 @@
     
     display: inline-block;
     margin-right: 3rem;
-    font-size: 2rem;
+    font-size: 1.2rem;
     margin-bottom: 2rem;
     margin-top: 1.5rem;
     
 }
 .labels input{
     color:rgb(67, 67, 67);
-    height: 2rem;
+    height: 1.5rem;
     border-radius: 10px;
-    font-size: 1.5rem;
+    font-size: 1.2rem;
 }
 .labels a{
     text-decoration: none;
