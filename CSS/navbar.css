@@ -1,0 +1,47 @@
+*{
+    color: white;
+    margin: 0px;
+
+}
+.navbar{
+    margin-top: 1%;
+    height: 10%;
+    background : rgb(127, 255, 127);
+    display:inline-flex;
+    width: 100vw;
+
+}
+
+.logo{
+    display: inline-block;
+    
+}
+.menu{
+    display: inline-flex;
+    justify-content: flex-end;
+    margin-inline-start: 25rem;
+    margin-top: 1rem;
+}
+
+.labels{
+    
+    display: inline-block;
+    margin-right: 3rem;
+    font-size: 2rem;
+    margin-bottom: 2rem;
+    margin-top: 1rem;
+    
+}
+.labels input{
+    color:rgb(67, 67, 67);
+    height: 2rem;
+    border-radius: 10px;
+    font-size: 1.5rem;
+}
+.labels a{
+    text-decoration: none;
+}
+
+.logo img{
+    height : 6rem;
+}
